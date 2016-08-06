@@ -1,2 +1,2 @@
-# Space-Fighter-Fight-or-Flight
-Space Fighter! Fight or Flight (C++)
+Hello!
+Download the zip file and run the .exe "Space Fighter! Fight or Flight" program
